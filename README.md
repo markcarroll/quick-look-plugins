@@ -12,12 +12,12 @@
 #### Install all
 
 ```
-brew cask install betterzipql qlcolorcode qlimagesize qlmarkdown qlprettypatch qlstephen qlvideo quicklookase quicklook-csv quicklook-json suspicious-package webpquicklook
+brew cask install betterzipql qlcolorcode qlimagesize qlmarkdown qlstephen qlvideo quicklookase quicklook-csv quicklook-json suspicious-package provisionql quicklookapk quicklook-pat
 ```
-#### Currently in use
+#### To install the ones I am currently using
 
 ```
-brew cask install betterzipql qlcolorcode qlimagesize qlmarkdown qlprettypatch qlstephen qlvideo quicklook-csv quicklook-json suspicious-package
+brew cask install betterzipql qlcolorcode qlimagesize qlmarkdown qlstephen qlvideo quicklook-csv quicklook-json suspicious-package
 ```
 
 ### Manually
@@ -66,15 +66,6 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 [![](screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
-### [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch)
-
-> Preview .patch files
-
-Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases/latest)
-
-[![](screenshots/QLPrettyPatch.png)](https://github.com/atnan/QLPrettyPatch)
-
-
 ### [QuickLookCSV](https://github.com/p2/quicklook-csv)
 
 > Preview CSV files
@@ -100,15 +91,6 @@ Run `brew cask install betterzipql` or [download manually](http://macitbetter.co
 Run `brew cask install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
-
-
-### [WebP](https://github.com/dchest/webp-quicklook)
-
-> Preview WebP images
-
-Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
-
-[![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
@@ -137,10 +119,6 @@ Run `brew cask install qlvideo` or [download manually](https://github.com/Margin
 
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
-
-## More
-
-*These are not included in [Install all](#install-all).*
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
