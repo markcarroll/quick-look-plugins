@@ -38,7 +38,7 @@ Run `brew install syntax-highlight`
 
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
 
-**_Deprecated_** 
+**_Deprecated - replaced by syntax-highlight_** 
 
 > Preview source code files with syntax highlighting
 
@@ -48,6 +48,8 @@ Run `brew cask install qlcolorcode` or [download manually](https://github.com/an
 
 
 ### [QLStephen](https://github.com/whomwah/qlstephen)
+
+**_Deprecated - replaced by syntax-highlight_** 
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
