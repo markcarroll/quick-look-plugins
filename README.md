@@ -12,7 +12,7 @@
 #### Install all
 
 ```
-brew cask install betterzipql qlcolorcode qlimagesize qlmarkdown qlstephen qlvideo quicklookase quicklook-csv quicklook-json suspicious-package provisionql quicklookapk quicklook-pat
+brew cask install betterzipql qlmarkdown qlstephen qlvideo quicklookase suspicious-package provisionql quicklookapk quicklook-pat syntax-highlight 
 ```
 #### To install the ones I am currently using
 
@@ -30,7 +30,15 @@ brew cask install betterzipql qlcolorcode qlimagesize qlmarkdown qlstephen qlvid
 ## Plugins
 
 
+### [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+
+> Newer and better syntax highlighting for many file types. UI allows for adding new file types and configuring existing ones. 
+
+Run `brew install syntax-highlight` 
+
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
+
+**_Deprecated_** 
 
 > Preview source code files with syntax highlighting
 
